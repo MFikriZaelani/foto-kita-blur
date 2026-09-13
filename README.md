@@ -2,6 +2,8 @@
 
 Aplikasi real-time camera blur yang mendeteksi gesture peace sign menggunakan AI (MediaPipe Hand Landmarker).
 
+<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/3b13fa1d-f25a-4530-91a4-cb65e088b058" />
+
 ---
 
 ## ✨ Kegunaan
